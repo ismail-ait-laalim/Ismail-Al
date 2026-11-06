@@ -30,5 +30,5 @@ projects, technical work, and learning journey.
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/ismail-aitlaalim/
+- LinkedIn: [linkedin](https://www.linkedin.com/in/ismail-aitlaalim/)
 - GitHub: [ismail-uir](https://github.com/ismail-uir)
